@@ -5,5 +5,5 @@
 
 ### Let's Connect!
 👥 [LinkedIn](https://www.linkedin.com/in/pham-jonathan/) /
-🌐 [Website](jonathanpham.tech) /
-📧 [Email](jonathanthienpham@gmail.com) /
+🌐 [Website](https://www.jonathanpham.tech) /
+📧 Email: jonathanthienpham@gmail.com /
