@@ -1,5 +1,5 @@
-![javier-lores-KmZkzwTR9a4-unsplash](https://user-images.githubusercontent.com/55514757/88447148-2f77f780-cdfe-11ea-8902-11fc3bf87907.jpg)
-## Acknowledgements: Check out this awesome beach shot by [Jaiver Lores](https://unsplash.com/photos/KmZkzwTR9a4) 
+![josh-spires-dronenr-lJvn6yhR-UI-unsplash](https://user-images.githubusercontent.com/55514757/88447255-36ebd080-cdff-11ea-9d7e-6bb2a252d0f8.jpg)
+## Acknowledgements: Check out this awesome ocean shot by [Josh Spires](https://unsplash.com/photos/lJvn6yhR-UI) 
 
 * ⚡ `Quote of the day:` “Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.” - Carl Jung
 
